@@ -1,0 +1,19 @@
+#box{
+    height:10vw;
+    width:10vw;
+    background-color:purple;
+    position:absolute;
+    cursor:pointer;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+#box p {
+    color:white;
+    font-size:1.7vw;
+}
+
+body{
+    background-color:green;
+}
